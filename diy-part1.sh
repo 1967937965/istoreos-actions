@@ -20,4 +20,4 @@
 # echo 'src-git openclash https://github.com/vernesong/OpenClash' >>feeds.conf.default
 # echo 'src-git adguardhome https://github.com/rufengsuixing/luci-app-adguardhome' >>feeds.conf.default
 # echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns' >>feeds.conf.default
-echo 'src-git 5g-modem https://github.com/Siriling/5G-Modem-Support.git' >>feeds.conf.default
+# echo 'src-git 5g-modem https://github.com/Siriling/5G-Modem-Support.git' >>feeds.conf.default
