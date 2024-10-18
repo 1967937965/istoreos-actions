@@ -24,4 +24,5 @@
 # CONFIG_PACKAGE_luci-app-mosdns=y
 # CONFIG_PACKAGE_luci-app-adguardhome=y
 # CONFIG_PACKAGE_luci-app-openclash=y
+# CONFIG_PACKAGE_luci-app-modem=y
 # ' >> .config
